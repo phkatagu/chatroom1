@@ -61,7 +61,7 @@
 .userDP{
     margin-left: 20px;
     border-radius: 50%;
-    background-image: url('/dp.jpeg');
+    background-image: url('Chat-Room-Making\src\dp.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 79px;
